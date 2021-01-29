@@ -1,0 +1,11 @@
+{
+  "name": "mob-first-portfolio",
+  "version": "1.0.0",
+  "description": "A nice personal portfolio page built mobile-first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Kebel",
+  "license": "ISC"
+}
